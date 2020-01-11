@@ -7,6 +7,7 @@ import mglearn
 from sklearn.datasets import load_iris
 iris_dataset = load_iris()
 
+### Classify and predict using KNN classifier of iris flowers dataset
 
 ## Keys##
 
